@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: budgie-screenshot-applet\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2019-12-29 11:40+0300\n"
+"Last-Translator: Puppelimies\n"
+"Language-Team: Swedish (http://www.transifex.com/cybres-budgie-applets/"
+"budgie-screenshot-applet/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "<big>Screen</big>"
+msgstr "<span font=\"11\">Экран</span>"
+
+msgid "<big>Selection</big>"
+msgstr "<span font=\"11\">Выделение</span>"
+
+msgid "<big>Upload failed</big>"
+msgstr "Ошибка загрузки"
+
+msgid "<big>Upload queued</big>"
+msgstr "Успешная загрузка"
+
+msgid "<big>Uploading</big>"
+msgstr "Загрузка"
+
+msgid "<big>Window</big>"
+msgstr "<span font=\"11\">Окно</span>"
+
+msgid "<big>Your screenshots will show up here</big>"
+msgstr "<big>Ваши снимки появятся здесь</big>"
+
+msgid "<span font=\"11\">Recent screenshots</span>"
+msgstr "<span font=\"11\">Последние снимки</span>"
+
+msgid "All monitors"
+msgstr "Все мониторы"
+
+msgid "Apply changes"
+msgstr "Применить"
+
+msgid "Automatic copy"
+msgstr "Автоматически скопировать"
+
+msgid "Automatic upload"
+msgstr "Автоматическая загрузка"
+
+msgid "Automatically copy the screenshot URL after uploading it"
+msgstr "Скопировать адрес снимка после его загрузки"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Cancel upload"
+msgstr "Отменить загрузку"
+
+msgid "Choose directory"
+msgstr "Выберите каталог"
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "Clear all screenshots"
+msgstr "Очистить историю"
+
+msgid "Clear title"
+msgstr "Очистить"
+
+msgid "Copy screenshot link"
+msgstr "Скопировать ссылку на снимок"
+
+msgid "Delay"
+msgstr "Задержка"
+
+msgid "Delete files"
+msgstr "Удалять файлы"
+
+msgid "Delete screenshot"
+msgstr "Удалить снимок"
+
+msgid "Edit screenshot title"
+msgstr "Изменить имя снимка"
+
+msgid "Global screenshot delay"
+msgstr "Общая задержка съемки"
+
+msgid "History"
+msgstr "История"
+
+msgid "Include border"
+msgstr "Включить рамку"
+
+msgid "Include pointer"
+msgstr "Отображать курсор"
+
+msgid "Include the pointer in screenshots"
+msgstr "Отображать курсор на снимках"
+
+msgid "Include the window border in window screenshots"
+msgstr "Включить рамку вокруг окна на снимке"
+
+msgid ""
+"Left click to open\n"
+"Right click to copy"
+msgstr ""
+"ЛКМ - Открыть\n"
+"ПКМ - Скопировать"
+
+msgid "Monitor"
+msgstr "Монитор"
+
+msgid "New title (optional)"
+msgstr "Новое имя"
+
+msgid "Open screenshot"
+msgstr "Открыть снимок"
+
+msgid "Prefer the global delay over individual screenshot mode delays"
+msgstr "Использовать общую задержку вместо задержек для каждого вида снимков"
+
+msgid "Re-open applet"
+msgstr "Открыть апплет после создания снимка"
+
+msgid "Re-open the applet after taking a screenshot"
+msgstr "Открыть апплет после создания снимка"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Remove all screenshots from history"
+msgstr "Удалить все снимки из истории"
+
+msgid ""
+"Removing a screenshot from history will also delete the file from the disk "
+"if this is enabled"
+msgstr "Удаление снимка из истории удалит его с компьютера"
+
+msgid "Reset global settings"
+msgstr "Сбросить общие настройки"
+
+msgid "Reset individual settings"
+msgstr "Сбросить индивидуальные настройки"
+
+msgid "Save destination"
+msgstr "Каталог для сохранения снимков"
+
+msgctxt "Screen option in the main applet view"
+msgid "Screen"
+msgstr "Экран"
+
+msgid "Screen screenshot delay"
+msgstr "Размер задержки перед созданием снимка"
+
+msgid "Screenshot delay"
+msgstr "Задержка съемки"
+
+msgctxt "Screenshot delay"
+msgid "Delay"
+msgstr "Задержка"
+
+msgid "Screenshot from %s"
+msgstr "Снимок от %s"
+
+msgid "Screenshot not available"
+msgstr "Снимок не доступен"
+
+msgid "Screenshots"
+msgstr "Снимки"
+
+msgid "Screenshots will be saved under this location"
+msgstr "Снимки будут сохранены здесь"
+
+msgid "Select"
+msgstr "Выбор"
+
+msgctxt "Selection option in the main applet view"
+msgid "Selection"
+msgstr "Выделение"
+
+msgid "Selection screenshot delay"
+msgstr "Размер задержки перед созданием снимка"
+
+msgid "Service to use for uploading screenshots"
+msgstr "Сервис для загрузки снимков"
+
+msgctxt ""
+"Short for Global Settings. This string is the page title used in the stack "
+"switcher on the top of the settings page."
+msgid "Global"
+msgstr "Общие"
+
+msgctxt ""
+"Short for Individual Settings. This string is the page title used in the "
+"stack switcher on the top of the settings page."
+msgid "Individual"
+msgstr "Индивидуальные"
+
+msgid "Show screenshot thumbnails"
+msgstr "Включить миниатюры снимков в истории"
+
+msgid "Show thumbnails"
+msgstr "Включить миниатюры"
+
+msgid "The monitor that should be used for taking a screenshot"
+msgstr "Этот монитор может быть использован для создания снимков"
+
+msgid "Title (Optional)"
+msgstr "Имя снимка"
+
+msgid "Try again"
+msgstr "Попробуйте снова"
+
+msgid "Untitled"
+msgstr "Безымянный"
+
+msgid "Upload provider"
+msgstr "Сервис для загрузки"
+
+msgid "Upload screenshot"
+msgstr "Поделиться снимком"
+
+msgid "Upload screenshots automatically"
+msgstr "Загружать снимки автоматически"
+
+msgctxt "Use global [screenshot] delay"
+msgid "Use global delay"
+msgstr "Использовать общую задержку"
+
+msgctxt "Window option in the main applet view"
+msgid "Window"
+msgstr "Окно"
+
+msgid "Window screenshot delay"
+msgstr "Размер задержки перед созданием снимка"
