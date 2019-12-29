@@ -488,7 +488,9 @@ Only copy the screenshot to the clipboard</property>
                         </child>
                       </object>
                       <packing>
-                        <property name="name">global</property>
+                    <property name="name">Global</property>
+                    <property name="title" translatable="yes" context="Short for Global Settings. This string is the page title used in the stack switcher on the top of the settings page.">Individual</property>
+                    <property name="position">2</property>
                       </packing>
                     </child>
                     <child>
